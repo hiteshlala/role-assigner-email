@@ -1,0 +1,19 @@
+{
+  "username": "myUsernameHere",
+  "password": "myPasswordHere",
+  "service": "Yahoo",
+  "name": "Email From Name",
+  "players": [
+    "no-reply@nowhere.com",
+    "no-reply@nowhere.com"
+  ],
+  "roles": [
+    "Percival",
+    "Morgana",
+    "Merlin",
+    "Mordred",
+    "Oberon",
+    "Good",
+    "Good"
+  ]
+}
